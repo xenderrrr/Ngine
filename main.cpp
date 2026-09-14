@@ -1,6 +1,6 @@
 // Yes I know my code is complete shit, but it works
-
-
+// No GUI for now, just make a new C++ file or edit the code
+// I don't know if this is gonna compile on any other device
 
 
 #define GLFW_INCLUDE_NONE
