@@ -1,2 +1,2 @@
 # Ngine
-shitty game engine but it works
+shitty game engine (WIP obviously)
